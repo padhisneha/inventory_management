@@ -44,26 +44,26 @@ A modern Pantry Management System built with Next.js and Firebase Firestore. The
 
 2. Install dependencies:
 
-  ```bash
-  npm install
-  ```
+     ```bash
+     npm install
+     ```
 3. Set up environment variables:
 
-  Create a .env.local file in the root directory and add your Firebase and Spoonacular API credentials:
-
-  NEXT_PUBLIC_FIREBASE_API_KEY=your_firebase_api_key
-  NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN=your_firebase_auth_domain
-  NEXT_PUBLIC_FIREBASE_PROJECT_ID=your_firebase_project_id
-  NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET=your_firebase_storage_bucket
-  NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID=your_firebase_messaging_sender_id
-  NEXT_PUBLIC_FIREBASE_APP_ID=your_firebase_app_id
-  NEXT_PUBLIC_SPOONACULAR_API_KEY=your_spoonacular_api_key
+     Create a .env.local file in the root directory and add your Firebase and Spoonacular API credentials:
+   
+     NEXT_PUBLIC_FIREBASE_API_KEY=your_firebase_api_key
+     NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN=your_firebase_auth_domain
+     NEXT_PUBLIC_FIREBASE_PROJECT_ID=your_firebase_project_id
+     NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET=your_firebase_storage_bucket
+     NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID=your_firebase_messaging_sender_id
+     NEXT_PUBLIC_FIREBASE_APP_ID=your_firebase_app_id
+     NEXT_PUBLIC_SPOONACULAR_API_KEY=your_spoonacular_api_key
 
 4. Run the app locally:
 
-  ```bash
-  npm run dev
-  ```
+     ```bash
+     npm run dev
+     ```
 Open http://localhost:3000 to view it in your browser.
 
 ## Usage
