@@ -23,8 +23,8 @@ A modern Pantry Management System built with Next.js and Firebase Firestore. The
 
 ## App Demo
 
-![Pantry Management App](![image](https://github.com/user-attachments/assets/749de49d-1c25-42b5-bbf6-eb3a001b47ca))
-(https://inventory-management-d0b8d.web.app/)
+[![Pantry Management App](https://github.com/user-attachments/assets/749de49d-1c25-42b5-bbf6-eb3a001b47ca)](https://inventory-management-d0b8d.web.app/)
+
 
 ## Installation
 
