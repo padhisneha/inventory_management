@@ -39,8 +39,8 @@ A modern Pantry Management System built with Next.js and Firebase Firestore. The
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/pantry-management-app.git
-   cd pantry-management-app
+   git clone https://github.com/padhisneha/inventory_management.git
+   cd inventory_management
 
 2. Install dependencies:
 
@@ -49,14 +49,8 @@ A modern Pantry Management System built with Next.js and Firebase Firestore. The
      ```
 3. Set up environment variables:
 
-     Create a .env.local file in the root directory and add your Firebase and Spoonacular API credentials:
+     Create a .env.local file in the root directory and add your Spoonacular API credentials:
    
-     NEXT_PUBLIC_FIREBASE_API_KEY=your_firebase_api_key
-     NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN=your_firebase_auth_domain
-     NEXT_PUBLIC_FIREBASE_PROJECT_ID=your_firebase_project_id
-     NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET=your_firebase_storage_bucket
-     NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID=your_firebase_messaging_sender_id
-     NEXT_PUBLIC_FIREBASE_APP_ID=your_firebase_app_id
      NEXT_PUBLIC_SPOONACULAR_API_KEY=your_spoonacular_api_key
 
 4. Run the app locally:
